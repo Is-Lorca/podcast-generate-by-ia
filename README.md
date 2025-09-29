@@ -1,6 +1,8 @@
 # Projeto Podcast Gerado por I.A.s  
 *Engenharia de Prompt*  
 
+![Banner](src/Capa_AI_Podcast.png)
+
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-AI-green?logo=openai) ![Suno IA](https://img.shields.io/badge/Suno-IA-orange) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-IA-blue) ![Sora](https://img.shields.io/badge/Sora-AI-blue) ![Clipchamp](https://img.shields.io/badge/Clipchamp-Editor-lightblue) ![MP3](https://img.shields.io/badge/Formato-MP3-red)
 
 ## Descrição
